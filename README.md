@@ -83,8 +83,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/Aleksei-002/Aleksei-002/blob/main/efimov_aleksei_artemovich_certificate_139_hours_en.jpg?raw=true)
-[<img src="/recommendation_qa.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/recommendation_qa.png)
+[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Aleksei-002/Aleksei-002/main/efimov_aleksei_artemovich_certificate_139_hours_en.jpg)
 
 <br>
 <br>
