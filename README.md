@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Привет всем! 👋
+Меня зовут Алексей, я QA Engineer
 <!--
 **Aleksei-002/Aleksei-002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
